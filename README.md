@@ -5,13 +5,13 @@ It uses benchmarking and analysis to automatically select the optimal sorting me
 
 # Features
 
-Automatic Algorithm Selection: SortSelect analyzes your data input and chooses the best sorting algorithm for optimal performance.
+- Automatic Algorithm Selection: SortSelect analyzes your data input and chooses the best sorting algorithm for optimal performance.
 
-Benchmarking: Evaluate the efficiency of different sorting algorithms and identify the most suitable one for your data.
+- Benchmarking: Evaluate the efficiency of different sorting algorithms and identify the most suitable one for your data.
 
-User-Friendly: A simple and intuitive interface for inputting your data and generating sorted results.
+- User-Friendly: A simple and intuitive interface for inputting your data and generating sorted results.
 
-Flexible: Easily extendable to support additional sorting algorithms in the future.
+- Flexible: Easily extendable to support additional sorting algorithms in the future.
 
 # Usage
 
