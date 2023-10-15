@@ -38,7 +38,5 @@ SortSelect is built with a passion for algorithms and performance optimization. 
 # Note
 
 This is just the first version of SortSelect, and I have plans to continually enhance its capabilities in the future.
-
 I am actively working on adding more performance metrics, advanced features, and additional sorting algorithms to make SortSelect an even more powerful tool for optimizing your data sorting needs. 
-
 Stay tuned for updates and improvements as I develop this project to provide you with the best sorting algorithm selection experience.
