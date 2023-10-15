@@ -6,7 +6,8 @@ public class BenchmarkingClass
 {
     private static Map<String, Long> executionTimes = new HashMap<>();
 
-    public static void measureSortingAlgorithms(int[] array) {
+    public static void measureSortingAlgorithms(int[] array) 
+    {
         int[] userProvidedArray = getUserProvidedArray(array);
 
         SortingAlgorithmsClass sortingAlgorithms = new SortingAlgorithmsClass();
@@ -27,7 +28,6 @@ public class BenchmarkingClass
         // Other performance metrics measurement will be added in the future.
     }
 
-    // Benchmark a single sorting algorithm
     private static void benchmarkSortingAlgorithm(String algorithmName, int[] array, int numberOfTrials, Consumer<int[]> sortingAlgorithm) {
         long totalTime = 0;
 
@@ -44,7 +44,6 @@ public class BenchmarkingClass
 
         long averageTime = totalTime / numberOfTrials;
 
-        // Record and store the average time
         recordAndStorePerformanceMetrics(algorithmName, averageTime);
     }
 
@@ -63,5 +62,3 @@ public class BenchmarkingClass
         return executionTimes;
     }
 }
-
-// Other performance metrics measurement will be added in the future.
