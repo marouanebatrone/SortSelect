@@ -15,7 +15,7 @@ It uses benchmarking and analysis to automatically select the optimal sorting me
 
 # Usage
 
-1. Clone the repository: git clone https://github.com/yourusername/sortselect.git
+1. Clone the repository: git clone https://github.com/marouanebatrone/sortselect.git
 2. Open the project in your preferred Java IDE.
 3. Build the project to generate the executable JAR file.
 4. Compile and run the project using your Java IDE or execute the JAR file.
